@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^5.9",
+      "ext-mysqli": "*",
+      "ext-json": "*"
+    }
+}

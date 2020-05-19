@@ -1,0 +1,7 @@
+RewriteEngine On
+
+Options -Indexes
+
+RewriteRule ^([0-9A-ZA-Z-]+)$ details.php?pro_id=$1 [QSA,NC,L]
+
+RewriteRule ^store/([0-9A-ZA-Z-]+)?$ store.php?vendor_username=$1 [QSA,NC,L]
