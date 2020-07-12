@@ -1,8 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c670e686-e08f-4c4f-af78-01673526d91a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c670e686-e08f-4c4f-af78-01673526d91a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/other_images/fur1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/bundle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/bundle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/bundle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/bundle4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/comp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/comp5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/fur9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/huawei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/huawei2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/infinix2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/infinx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/iphone1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/iphone2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/iphone3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/nokia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/nokia2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/nokia3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/oppo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/oppo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/productsam1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/productsam2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/rsz_comp6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/rsz_productsam1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/sams2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/samsung6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_area/product_images/shoe8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_images/70949578_2392367990881586_5416413149957980160_o (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_images/tufail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tufail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/edit_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/edit_product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_area/view_products.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_area/view_products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bazar_new (1).sql" beforeDir="false" afterPath="$PROJECT_DIR$/bazar_new (1).sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/customer_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/customer/customer_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_received.php" beforeDir="false" afterPath="$PROJECT_DIR$/order_received.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +117,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
@@ -35,22 +127,17 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YqNS8P0RI1VXoJkUoQoxJNx3yh" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cms" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,10 +160,28 @@
       <workItem from="1584394295868" duration="985000" />
       <workItem from="1585444838259" duration="1723000" />
       <workItem from="1585447813001" duration="20000" />
+      <workItem from="1594536962546" duration="5185000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594538690017">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="175" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1024.728@0.0.1024.728" timestamp="1594538690017" />
   </component>
 </project>

@@ -7,6 +7,7 @@
       $run_edit = mysqli_query($con, $get_p);
       $row_edit = mysqli_fetch_array($run_edit);
       $p_id = $row_edit['product_id'];
+      $p_title = $row_edit['product_title'];
       $p_cat = $row_edit['p_cat_id'];
       $cat = $row_edit['cat_id'];
       $m_id = $row_edit['manufacturer_id'];

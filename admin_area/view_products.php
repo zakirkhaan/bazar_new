@@ -504,7 +504,7 @@ where status='product' $filter_where order by 1 desc LIMIT $start_from,$per_page
 
                                 $row_customer = mysqli_fetch_array($run_customer);
 
-                                $vendor_name = $row_customer['customer_name'];
+                                @$vendor_name = $row_customer['customer_name'];
 
                               }
 

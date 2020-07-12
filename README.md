@@ -1,13 +1,9 @@
-# bazar_new
+# Bazaar
 # Developer name: Zakir Ullah Mahsood
 # PRoject Type: Ecommerce
-# Languages; Html, css, Bootstrap, js , jquery, Core Php, And sql.
+# Languages; Html, css, Bootstrap, js , jquery,ajax, Core Php, And sql.
 # Php version 7.2 and above.
 # Date:19/05/2020
 # GPL LICENSED
-A Full ecommerce project developed in core php with all complex features.
-Go to project and clone all files
-Paste them in your htdocs folder
-Copy bazar_new.sql file and import it into phpmyadmin
-And then you can type in the project name and explore the project
+A Full ecommerce project developed in core php with all complex features.This project has been designed and developed By the students of cecos university peshawar. It is Our Final Year project. This Product has been Licensed Under GPL.
 

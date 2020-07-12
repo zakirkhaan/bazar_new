@@ -859,7 +859,7 @@ if(!isset($_GET['order_id'])){
 
                     <li>Payment Method: <strong><?php echo ucwords($payment_method); ?></strong></li>
 
-                    <li>Total: <strong>$<?php echo $order_total; ?></strong></li>
+                    <li>Total: <strong>Rs:<?php echo $order_total; ?></strong></li>
 
                     <li><strong><a class="text-muted" href="customer/my_account.php?my_orders"> Click Here For Go To My
                                 Account </a></strong></li>

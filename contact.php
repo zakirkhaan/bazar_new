@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 include("includes/db.php");
 include("functions/functions.php");
@@ -345,11 +346,11 @@ include("functions/functions.php");
 
                 $headers = "From: $sender_email \r\n";
                 $headers .= "Content-type: text/html\r\n";
-                mail($contact_email, $sender_subject, $new_message, $headers);
+                mail($contact_email,$sender_subject, $new_message, $headers);
 // Send email to sender through this code
                 $email = $_POST['email'];
                 $subject = "Welcome to my website";
-                $msg = "I shall get you soon, thanks for sending us email";
+                $msg = "I shall get to you soon, thanks for sending us email";
                 $from = "zakirkhaan2@gmail.com";
                 mail($email, $subject, $msg, $from);
                 echo "<h2 align='center'>Your message has been sent successfully</h2>";

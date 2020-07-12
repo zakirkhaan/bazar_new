@@ -86,9 +86,9 @@ if (isset($_POST['login'])) {
 
   $customer_role = $row_customer["customer_role"];
 
-  $decryt_password = password_verify($customer_pass, $hash_password);
+  $decrypt_password = password_verify($customer_pass, $hash_password);
 
-  if ($decryt_password == 0) {
+  if ($decrypt_password == 0) {
 
     echo "<script>alert('your password or email is wrong')</script>";
 
